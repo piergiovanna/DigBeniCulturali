@@ -5,3 +5,19 @@ Esperti del tema hanno trattato le recenti modifiche normative nell'ambito della
 Focus del workshop è stata la dibattuta questione sulle riproduzione dei beni culturali (opere d'arte, monumenti, reperti/scavi archeologici, beni librari e archivisti, etc.), sul il loro riuso e divulgazione.
  
 Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del Dipartimento di Lingue e Letterature Straniere e dal Sistema bibliotecario di Ateneo, in collaborazione con Wikimedia Italia.
+
+## Programma e slides degli interventi:
+Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo
+Direttrice del Sistema Bibliotecario di Ateneo, dott.ssa Daniela Brunelli
+Presentazione del workshop, Piergiovanna Grossi (Università di Verona)
+### Introduzione alle Linee guida del Piano nazionale di digitalizzazione del patrimonio culturale (PND)
+Il Piano nazionale di digitalizzazione del patrimonio culturale pubblicato a giugno 2022 è accompagnato da cinque Linee guida che delineano un quadro tecnico e metodologico ausiliare alla pianificazione e all’esecuzione della digitalizzazione del patrimonio culturale. Ogni documento affronta un aspetto diverso delle pratiche di digitalizzazione. Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale chiariscono le norme che disciplinano l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale. Questo documento ha l’obiettivo di mettere le istituzioni e gli utenti nelle condizioni di distinguere i limiti e le possibilità di riutilizzo delle riproduzioni rese disponibili in rete dagli istituti. 
+### Relatrice: Tiziana Mancinelli
+Digital Humanist presso la Digital Library, ha collaborato alla redazione del Piano nazionale di digitalizzazione del patrimonio culturale e delle Linee Guida. Collabora inoltre con il Venice Centre for Digital and Public Humanities ed è docente a contratto presso il DHDK dell'università di Bologna.
+### I diritti sulle riproduzioni digitali dei beni culturali
+L’intervento illustra le norme che prevedono diritti sulle riproduzioni digitali dei beni culturali e sulla loro circolazione (Legge 633/1941 e Decreto Legislativo 42/2004) anche alla luce delle recenti modifiche normative e delle indicazioni contenute nelle Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale pubblicate a giugno 2022 e oggetto di consultazione pubblica.
+### Relatore: Marco Ciurcina
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
+Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
+### Slide dell'intervento
+ * [Slides Ciurcina riproduzione beni culturali](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Ciurcina_riproduzione_beni_culturali.pdf)
