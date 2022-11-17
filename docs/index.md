@@ -20,4 +20,10 @@ L’intervento illustra le norme che prevedono diritti sulle riproduzioni digita
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
 Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 ### Slide dell'intervento
- * [Slides Ciurcina riproduzione beni culturali](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Ciurcina_riproduzione_beni_culturali.pdf)
+ * [Ciurcina riproduzione beni culturali](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Ciurcina_riproduzione_beni_culturali.pdf)
+
+### Acquisizione, circolazione e riuso delle riproduzioni dei beni culturali in ambiente digitale: quali obblighi per i soggetti pubblici?
+All’indomani dell’adozione del Piano nazionale di digitalizzazione del patrimonio culturale, sarà ricostruito il quadro normativo in materia di riproduzioni digitali di beni culturali. La ricostruzione sarà effettuata dalla prospettiva dei soggetti pubblici in modo da verificare quali sono gli obblighi da rispettare e i margini di discrezionalità che residuano in capo essi.
+### Relatore: Ernesto Belisario
+Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche dell’innovazione. È specializzato in diritto amministrativo. Si occupa di diritto delle tecnologie, protezione dei dati personali, innovazione e apertura delle pubbliche amministrazioni. Su questi temi è autore di numerose pubblicazioni e docente in master e corsi di formazione e specializzazione. È curatore del progetto lapadigitale.it ed è stato tra i promotori di Foia4Italy.
+  * [Belisario riproduzione beni cuòturali e PA](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Belisario_Verona_041122_riproduzioni.pdf)
