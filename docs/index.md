@@ -44,7 +44,7 @@ Partendo dal caso Wikipedia, questo breve intervento intende evidenziare come il
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e geografico.
 #### Slide dell'intervento
  * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
-
+-- hit
 >
 > #### Locandina del workshop
 > * [Locandina](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
