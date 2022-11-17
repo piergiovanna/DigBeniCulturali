@@ -45,7 +45,7 @@ Docente a contratto presso l’Università di Verona, libera professionista, mem
 #### Slide dell'intervento
  * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
 
- -- hit <Enter>
+<Enter>
 
 
 >
