@@ -27,3 +27,19 @@ All’indomani dell’adozione del Piano nazionale di digitalizzazione del patri
 ### Relatore: Ernesto Belisario
 Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche dell’innovazione. È specializzato in diritto amministrativo. Si occupa di diritto delle tecnologie, protezione dei dati personali, innovazione e apertura delle pubbliche amministrazioni. Su questi temi è autore di numerose pubblicazioni e docente in master e corsi di formazione e specializzazione. È curatore del progetto lapadigitale.it ed è stato tra i promotori di Foia4Italy.
   * [Belisario riproduzione beni cuòturali e PA](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Belisario_Verona_041122_riproduzioni.pdf)
+
+### L'Open Access e la normativa sulle riproduzioni di beni culturali: opportunità o conflitto? 
+Il Codice dei beni culturali pone dei precisi limiti al riutilizzo per fini commerciali delle immagini, previsto invece dalle usuali licenze delle pubblicazioni in Open Access. Quali sono i limiti, soprattutto nell’editoria universitaria, e quali le possibilità di conciliazione?
+### Relatrice: Daniela Brunelli
+Direttrice del Sistema Bibliotecario di Ateneo, Università di Verona, presidente del Conservatorio E. F. Dall'Abaco di Verona.
+### Relatore: Andrea Brugnoli
+Bibliotecario in servizio al laboratorio LaMeDan dell’Università di Verona, docente a contratto di Informatica umanistica, coordinatore nazionale del movimento Fotografie Libere per i Beni Culturali e direttore della collana OA Studi Veronesi.
+ * [Slides Brunelli Brugnoli Open Access](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Brunelli_Brugnoli_Open_Access.pdf)
+ 
+### La normativa sulle riproduzioni di beni culturali e la fruizione pubblica: l’esempio Wikipedia
+Partendo dal caso Wikipedia, questo breve intervento intende evidenziare come il libero riutilizzo delle riproduzioni di
+beni culturali possa costituire un vantaggio in termini di conoscenza e valorizzazione del patrimonio culturale stesso e
+come per i musei medio piccoli e i monumenti meno noti questo possa trasformarsi anche in un vantaggio economico. 
+### Relatrice: Piergiovanna Grossi
+Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e geografico.
+ * [Slides presentazione wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
