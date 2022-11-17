@@ -4,7 +4,8 @@ A pochi mesi dall’emanazione delle modifiche normative seguite al recepimento 
 Esperti del tema hanno trattato le recenti modifiche normative nell'ambito della digitalizzazione e divulgazione del patrimonio culturale italiano e risposto alle domande del pubblico.
 Focus del workshop è stata la dibattuta questione sulle riproduzione dei beni culturali (opere d'arte, monumenti, reperti/scavi archeologici, beni librari e archivisti, etc.), sul il loro riuso e divulgazione.
  
-Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del Dipartimento di Lingue e Letterature Straniere e dal Sistema bibliotecario di Ateneo, in collaborazione con Wikimedia Italia.
+Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del [Dipartimento di Lingue e Letterature Straniere](https://www.dlls.univr.it/) e dal [Sistema bibliotecario di Ateneo](https://www.univr.it/it/organizzazione/sistema-bibliotecario-di-ateneo/), in collaborazione con [Wikimedia Italia](https://www.wikimedia.it/).
+ [Link all'evento](https://www.dlls.univr.it/?ent=seminario&id=5773).
 
 ## Programma e slides degli interventi:
 Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo
@@ -43,3 +44,8 @@ come per i musei medio piccoli e i monumenti meno noti questo possa trasformarsi
 ### Relatrice: Piergiovanna Grossi
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e geografico.
  * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
+
+### Locandina del workshop
+[Locandina]([https://www.dlls.univr.it/?ent=seminario&id=5773](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
+
+
