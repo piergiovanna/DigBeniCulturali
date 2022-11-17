@@ -6,10 +6,9 @@ Focus del workshop è stata la dibattuta questione sulle riproduzione dei beni c
  
 Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del [Dipartimento di Lingue e Letterature Straniere](https://www.dlls.univr.it/) e dal [Sistema bibliotecario di Ateneo](https://www.univr.it/it/organizzazione/sistema-bibliotecario-di-ateneo/), in collaborazione con [Wikimedia Italia](https://www.wikimedia.it/).
  
-## Programma e slides degli interventi:
-Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo
-Direttrice del Sistema Bibliotecario di Ateneo, dott.ssa Daniela Brunelli
-Presentazione del workshop, Piergiovanna Grossi (Università di Verona)
+## Programma e slides degli interventi
+Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo e della Direttrice del Sistema Bibliotecario di Ateneo, dott.ssa Daniela Brunelli.
+Presentazione del workshop, Piergiovanna Grossi (Università di Verona).
 ### Introduzione alle Linee guida del Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 Il Piano nazionale di digitalizzazione del patrimonio culturale pubblicato a giugno 2022 è accompagnato da cinque Linee guida che delineano un quadro tecnico e metodologico ausiliare alla pianificazione e all’esecuzione della digitalizzazione del patrimonio culturale. Ogni documento affronta un aspetto diverso delle pratiche di digitalizzazione. Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale chiariscono le norme che disciplinano l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale. Questo documento ha l’obiettivo di mettere le istituzioni e gli utenti nelle condizioni di distinguere i limiti e le possibilità di riutilizzo delle riproduzioni rese disponibili in rete dagli istituti. 
 ### Relatrice: Tiziana Mancinelli
