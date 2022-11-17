@@ -34,7 +34,7 @@ Il Codice dei beni culturali pone dei precisi limiti al riutilizzo per fini comm
 Direttrice del Sistema Bibliotecario di Ateneo, Università di Verona, presidente del Conservatorio E. F. Dall'Abaco di Verona.
 ### Relatore: Andrea Brugnoli
 Bibliotecario in servizio al laboratorio LaMeDan dell’Università di Verona, docente a contratto di Informatica umanistica, coordinatore nazionale del movimento Fotografie Libere per i Beni Culturali e direttore della collana OA Studi Veronesi.
- * [Slides Brunelli Brugnoli Open Access](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Brunelli_Brugnoli_Open_Access.pdf)
+ * [Brunelli Brugnoli Open Access](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Brunelli_Brugnoli_Open_Access.pdf)
  
 ### La normativa sulle riproduzioni di beni culturali e la fruizione pubblica: l’esempio Wikipedia
 Partendo dal caso Wikipedia, questo breve intervento intende evidenziare come il libero riutilizzo delle riproduzioni di
@@ -42,4 +42,4 @@ beni culturali possa costituire un vantaggio in termini di conoscenza e valorizz
 come per i musei medio piccoli e i monumenti meno noti questo possa trasformarsi anche in un vantaggio economico. 
 ### Relatrice: Piergiovanna Grossi
 Docente a contratto presso l’Università di Verona, libera professionista, membro di Wikimedia Italia e Gfoss.it presso cui promuove la libera circolazione della conoscenza nell’ambito dei beni culturali e geografico.
- * [Slides presentazione wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
+ * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f67ea78219f7ba9bedbaa596f99929efc2b8732f/Grossi-fruizione-pubblica-wikipedia.pdf)
