@@ -23,7 +23,7 @@ Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torin
  * [Ciurcina riproduzione beni culturali](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Ciurcina_riproduzione_beni_culturali.pdf)
 
 ### Acquisizione, circolazione e riuso delle riproduzioni dei beni culturali in ambiente digitale: quali obblighi per i soggetti pubblici?
-All’indomani dell’adozione del *Piano nazionale di digitalizzazione del patrimonio culturale*, sarà ricostruito il quadro normativo in materia di riproduzioni digitali di beni culturali. La ricostruzione sarà effettuata dalla prospettiva dei soggetti pubblici in modo da verificare quali sono gli obblighi da rispettare e i margini di discrezionalità che residuano in capo essi.
+All’indomani dell’adozione del Piano nazionale di digitalizzazione del patrimonio culturale, sarà ricostruito il quadro normativo in materia di riproduzioni digitali di beni culturali. La ricostruzione sarà effettuata dalla prospettiva dei soggetti pubblici in modo da verificare quali sono gli obblighi da rispettare e i margini di discrezionalità che residuano in capo essi.
 #### Relatore: Ernesto Belisario
 Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche dell’innovazione. È specializzato in diritto amministrativo. Si occupa di diritto delle tecnologie, protezione dei dati personali, innovazione e apertura delle pubbliche amministrazioni. Su questi temi è autore di numerose pubblicazioni e docente in master e corsi di formazione e specializzazione. È curatore del progetto lapadigitale.it ed è stato tra i promotori di Foia4Italy.
 #### Slide dell'intervento
