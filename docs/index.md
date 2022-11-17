@@ -27,7 +27,7 @@ All’indomani dell’adozione del *Piano nazionale di digitalizzazione del patr
 #### Relatore: Ernesto Belisario
 Avvocato, Senior Partner dello Studio E-Lex e Segretario Generale dell’Istituto per le politiche dell’innovazione. È specializzato in diritto amministrativo. Si occupa di diritto delle tecnologie, protezione dei dati personali, innovazione e apertura delle pubbliche amministrazioni. Su questi temi è autore di numerose pubblicazioni e docente in master e corsi di formazione e specializzazione. È curatore del progetto lapadigitale.it ed è stato tra i promotori di Foia4Italy.
 #### Slide dell'intervento
-  * [Belisario riproduzione beni cuòturali e PA](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Belisario_Verona_041122_riproduzioni.pdf)
+  * [Belisario riproduzione beni culturali e PA](https://github.com/piergiovanna/DigitalizzareBeniCulturali/blob/f712a74c8eae37d473ab8071ed5bd663f834477d/Belisario_Verona_041122_riproduzioni.pdf)
 
 ### L'Open Access e la normativa sulle riproduzioni di beni culturali: opportunità o conflitto? 
 Il Codice dei beni culturali pone dei precisi limiti al riutilizzo per fini commerciali delle immagini, previsto invece dalle usuali licenze delle pubblicazioni in Open Access. Quali sono i limiti, soprattutto nell’editoria universitaria, e quali le possibilità di conciliazione?
