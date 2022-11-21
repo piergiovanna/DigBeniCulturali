@@ -12,9 +12,9 @@ Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Stranie
 Presentazione del workshop, Piergiovanna Grossi (Università di Verona).
 ### Introduzione alle Linee guida del Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 Il Piano nazionale di digitalizzazione del patrimonio culturale pubblicato a giugno 2022 è accompagnato da cinque Linee guida che delineano un quadro tecnico e metodologico ausiliare alla pianificazione e all’esecuzione della digitalizzazione del patrimonio culturale. Ogni documento affronta un aspetto diverso delle pratiche di digitalizzazione. *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* chiariscono le norme che disciplinano l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale. Questo documento ha l’obiettivo di mettere le istituzioni e gli utenti nelle condizioni di distinguere i limiti e le possibilità di riutilizzo delle riproduzioni rese disponibili in rete dagli istituti. 
-#### Relatrice: Tiziana Mancinelli
+##### Relatrice: Tiziana Mancinelli
 Digital Humanist presso la Digital Library, ha collaborato alla redazione del Piano nazionale di digitalizzazione del patrimonio culturale e delle Linee Guida. Collabora inoltre con il Venice Centre for Digital and Public Humanities ed è docente a contratto presso il DHDK dell'università di Bologna.
-#### Slide dell'intervento
+##### Slide dell'intervento
 * in attesa di caricamento
 ### I diritti sulle riproduzioni digitali dei beni culturali
 L’intervento illustra le norme che prevedono diritti sulle riproduzioni digitali dei beni culturali e sulla loro circolazione (Legge 633/1941 e Decreto Legislativo 42/2004) anche alla luce delle recenti modifiche normative e delle indicazioni contenute nelle *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* pubblicate a giugno 2022 e oggetto di consultazione pubblica.
