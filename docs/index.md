@@ -6,7 +6,7 @@ Focus del workshop è stata la dibattuta questione sulle riproduzione dei beni c
  
 Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del **[Dipartimento di Lingue e Letterature Straniere](https://www.dlls.univr.it/)** e dal **[Sistema bibliotecario di Ateneo](https://www.univr.it/it/organizzazione/sistema-bibliotecario-di-ateneo/)**, in collaborazione con **[Wikimedia Italia](https://www.wikimedia.it/)**.
  
-## Programma e slides degli interventi
+## Programma e slide degli interventi
 Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo e della Direttrice del Sistema Bibliotecario di Ateneo, dott.ssa Daniela Brunelli.
 
 Presentazione del workshop, Piergiovanna Grossi (Università di Verona).
