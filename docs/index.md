@@ -49,15 +49,12 @@ Docente a contratto presso l’Università di Verona, libera professionista, mem
  * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalBeniCulturali/blob/main/Grossi-fruizione-pubblica-wikipedia.pdf)
 
  <br>
- ______
-
 <br>
 
 >
 > #### Annuncio e Locandina del workshop
 > * [Annuncio](https://www.dlls.univr.it/?ent=seminario&id=5773)
 > * [Locandina](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
-> <br>
 > 
 > #### Comunicati
 > * [patrimonio-culturale-online-il-convegno-a-verona](https://www.wikimedia.it/news/patrimonio-culturale-online-il-convegno-a-verona/)
