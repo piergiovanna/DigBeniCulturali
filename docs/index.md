@@ -50,13 +50,12 @@ Docente a contratto presso l’Università di Verona, libera professionista, mem
 
  <br>
  ______
- <br>
+
 >
 > #### Annuncio e Locandina del workshop
 > * [Annuncio](https://www.dlls.univr.it/?ent=seminario&id=5773)
 > * [Locandina](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
- <br>
- >
+> <br>
 > #### Comunicati
 > * [patrimonio-culturale-online-il-convegno-a-verona](https://www.wikimedia.it/news/patrimonio-culturale-online-il-convegno-a-verona/)
 > * [Wikimedia_news](https://wiki.wikimedia.it/wiki/Wikimedia_news/numero_248)
