@@ -16,6 +16,9 @@ Il Piano nazionale di digitalizzazione del patrimonio culturale pubblicato a giu
 Digital Humanist presso la Digital Library, ha collaborato alla redazione del Piano nazionale di digitalizzazione del patrimonio culturale e delle Linee Guida. Collabora inoltre con il Venice Centre for Digital and Public Humanities ed è docente a contratto presso il DHDK dell'università di Bologna.
 ### I diritti sulle riproduzioni digitali dei beni culturali
 L’intervento illustra le norme che prevedono diritti sulle riproduzioni digitali dei beni culturali e sulla loro circolazione (Legge 633/1941 e Decreto Legislativo 42/2004) anche alla luce delle recenti modifiche normative e delle indicazioni contenute nelle *Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale* pubblicate a giugno 2022 e oggetto di consultazione pubblica.
+#### Slide dell'intervento
+* in attesa di caricamento
+
 #### Relatore: Marco Ciurcina
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
 Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
