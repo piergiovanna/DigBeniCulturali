@@ -5,6 +5,8 @@ Esperti del tema hanno trattato le recenti modifiche normative nell'ambito della
 Focus del workshop è stata la dibattuta questione sulle riproduzione dei beni culturali (opere d'arte, monumenti, reperti/scavi archeologici, beni librari e archivisti, etc.), sul il loro riuso e divulgazione.
  
 Il workshop è stato promosso nell'ambito del Progetto di Eccellenza “Le Digital Humanities applicate alle Lingue e Letterature Straniere” del **[Dipartimento di Lingue e Letterature Straniere](https://www.dlls.univr.it/)** e dal **[Sistema bibliotecario di Ateneo](https://www.univr.it/it/organizzazione/sistema-bibliotecario-di-ateneo/)**, in collaborazione con **[Wikimedia Italia](https://www.wikimedia.it/)**.
+
+E' stato il primo di due incontri, il secondo dei quali è stato dedicato nello specifico al patrimonio archeologico. Disponibile a questo link: **[Workshop 20 gennaio 2023](https://piergiovanna.github.io/DatiArcheo/)**, *La produzione dei dati e contenuti archeologici tra Linee guida per l'archeologia preventiva, diritto d'autore e codice dei contratti pubblici*.
  
 ## Programma e slide degli interventi
 Saluti della Direttrice Vicaria del Dipartimento di Lingue e Letterature Straniere, prof.ssa Anna Bognolo e della Direttrice del Sistema Bibliotecario di Ateneo, dott.ssa Daniela Brunelli.
