@@ -51,12 +51,13 @@ Docente a contratto presso l’Università di Verona, libera professionista, mem
  * [Grossi fruizione pubblica e wikipedia](https://github.com/piergiovanna/DigitalBeniCulturali/blob/main/Grossi-fruizione-pubblica-wikipedia.pdf)
 
  <br>
->
-> #### Annuncio e Locandina del workshop
-> * [Annuncio](https://www.dlls.univr.it/?ent=seminario&id=5773)
-> * [Locandina](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
-> 
-> #### Comunicati
-> * [patrimonio-culturale-online-il-convegno-a-verona](https://www.wikimedia.it/news/patrimonio-culturale-online-il-convegno-a-verona/)
-> * [Wikimedia_news](https://wiki.wikimedia.it/wiki/Wikimedia_news/numero_248)
+#### Annuncio e Locandina del workshop
+ * [Annuncio](https://www.dlls.univr.it/?ent=seminario&id=5773)
+ * [Locandina](https://www.dlls.univr.it/documenti/Seminario/documenti/documenti731214.pdf)
 
+#### Comunicati
+* [patrimonio-culturale-online-il-convegno-a-verona](https://www.wikimedia.it/news/patrimonio-culturale-online-il-convegno-a-verona/)
+* [Wikimedia_news](https://wiki.wikimedia.it/wiki/Wikimedia_news/numero_248)
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dove non diversamente specificato (si vedano in merito i termini di licenza delle singole presentazioni) i contenuti di questa pagina si intendono licenziati secondo la Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
